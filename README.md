@@ -15,13 +15,6 @@ Vous pouvez ensuite vous synchroniser avec la commande :
 ```bash
 uv sync
 ```
-Faites un nouvel environnement virtuel et activez le 
-
-```bash
-uv venv
-source .venv/bin/activate (sur linux/macOS)
-./.venv/Scripts/activate (sur Windows)
-```
 Et voilà ! vous êtes prêts à utiliser le notebook dans les meilleurs conditions 
 
 ### III. Comment utiliser ce tutoriel
